@@ -1,0 +1,14 @@
+MoleculeACE==3.0.0
+networkx==3.2.1
+numpy==2.3.2
+pandas==2.3.1
+pyarrow==20.0.0
+rdkit==2024.9.6
+rdkit_pypi==2022.9.5
+scikit_learn==1.7.1
+scipy==1.16.1
+sympy==1.13.3
+torch==2.7.0+cu128
+torch_geometric==2.6.1
+torchvision==0.22.0+cu128
+tqdm==4.67.1
